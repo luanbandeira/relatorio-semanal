@@ -48,3 +48,6 @@ tests/e2e/.state.json
 
 # scratch da CLI do Supabase
 supabase/.temp/
+
+# Gerado pelo Next.js ao rodar o servidor de desenvolvimento
+AGENTS.md
